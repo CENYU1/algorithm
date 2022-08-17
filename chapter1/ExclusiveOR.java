@@ -1,3 +1,4 @@
+package chapter1;
 public class ExclusiveOR {
     /*
      * 异或运算的本质就是无进位相加

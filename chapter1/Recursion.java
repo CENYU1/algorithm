@@ -1,3 +1,4 @@
+package chapter1;
 public class Recursion {
     /*
      * master公式  T(N) = aT(N/b) + O(N^d)

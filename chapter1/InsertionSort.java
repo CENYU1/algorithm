@@ -1,3 +1,4 @@
+package chapter1;
 public class InsertionSort {
     public static void insertionSort(int[] arr) {
         if(arr == null || arr.length < 2) return;

@@ -1,3 +1,4 @@
+package chapter1;
 public class BinarySearchExercise {
     // 在一个有序数组中，找 >= 某个数最左侧的位置
     public static int findLeft(int[] arr, int target) {

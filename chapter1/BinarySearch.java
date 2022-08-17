@@ -1,3 +1,4 @@
+package chapter1;
 public class BinarySearch {
     // 针对于闭区间 [l, r]
     public static int binarySearch(int[] arr, int target) {

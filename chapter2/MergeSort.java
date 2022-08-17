@@ -1,3 +1,4 @@
+package chapter2;
 public class MergeSort {
     /*
      * 归并排序 O(NlogN) 

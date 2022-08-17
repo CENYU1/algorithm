@@ -1,3 +1,4 @@
+package chapter1;
 public class BubbleSort {
     public static void bubbleSort(int[] arr) {
         if(arr == null || arr.length < 2) return;
